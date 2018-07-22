@@ -20,3 +20,7 @@ Sample MySQL functions that could be used on any particular project if need aris
 * _get_num_of_years_
 
    Calculates the difference in terms of years between two dates
+
+* _get_time_difference_
+
+   Calculates the difference in terms of years or month or days between two dates
